@@ -4,6 +4,13 @@
 
 [![YouTube Video](https://img.shields.io/badge/YouTube-Watch%20Video-red?style=for-the-badge&logo=youtube)](https://youtu.be/v5Z2_9ApE2g)
 
+<div align="center">
+  <a href="https://youtu.be/v5Z2_9ApE2g">
+    <img src="https://img.youtube.com/vi/v5Z2_9ApE2g/maxresdefault.jpg" alt="Prefix Sum" width="600"/>
+  </a>
+  <p>▶️ <strong>Watch: Prefix Sum | Visual Guide</strong></p>
+</div>
+
 ## 1. What is Prefix Sum?
 
 **Prefix Sum** is a technique where we **precompute cumulative sums** of an array so that we can answer **range-based questions efficiently**.
