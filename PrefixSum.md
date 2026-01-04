@@ -8,9 +8,8 @@
 
 **Prefix Sum** is a technique where we **precompute cumulative sums** of an array so that we can answer **range-based questions efficiently**.
 
-[Image 1](https://miro.medium.com/1%2A3j7gkjyRLd0oL86kCN8bRQ.jpeg)
-
-[Image 2](https://labuladong.online/algo/images/difference/1.jpeg)
+<img src="https://miro.medium.com/1%2A3j7gkjyRLd0oL86kCN8bRQ.jpeg">
+<img src="https://labuladong.online/algo/images/difference/1.jpeg">
 
 ### Core Idea
 
