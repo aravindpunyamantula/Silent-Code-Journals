@@ -2,6 +2,8 @@
 
 ---
 
+[![Watch on YouTube](https://img.youtube.com/vi/v5Z2_9ApE2g/maxresdefault.jpg)](https://youtu.be/v5Z2_9ApE2g "Prefix Sum | Silent Code Journal")
+
 ## 1. What is Prefix Sum?
 
 **Prefix Sum** is a technique where we **precompute cumulative sums** of an array so that we can answer **range-based questions efficiently**.
