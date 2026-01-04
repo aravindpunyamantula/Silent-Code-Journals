@@ -2,7 +2,7 @@
 
 ---
 
-[![Watch on YouTube](https://img.youtube.com/vi/v5Z2_9ApE2g/maxresdefault.jpg)](https://youtu.be/v5Z2_9ApE2g "Prefix Sum | Silent Code Journal")
+[![YouTube Video](https://img.shields.io/badge/YouTube-Watch%20Video-red?style=for-the-badge&logo=youtube)](https://youtu.be/v5Z2_9ApE2g)
 
 ## 1. What is Prefix Sum?
 
